@@ -18,5 +18,6 @@ AdBlock technology relies on straightforward lists known as filter lists, which 
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/devrajKhadka-smiley/Ad-blocker-Detector-JavaScript/blob/master/tests/adblock%20disabled.png))
+![App Screenshot](/tests/adblock%20disabled.png)
+
 
